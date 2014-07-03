@@ -24,9 +24,9 @@ login password of admin user are the defaults from the mediadrop install ... aka
 Notes :
 -------
 Currently this docker does not :
--allow choosing a storage point (at least not documented ;) )
--allow you to use an external mysql server (I know it's bad but this one's embed it's mysql server)
--allow you to provide a configuration file for mediadrop
--etc (Very Alpha therefore)
+*allow choosing a storage point (at least not documented ;) )
+*allow you to use an external mysql server (I know it's bad but this one's embed it's mysql server)
+*allow you to provide a configuration file for mediadrop
+*etc (Very Alpha therefore)
 
 But this container should allow you to test basics of Mediadrop
