@@ -23,7 +23,7 @@ or to `http://<yourIP>:<yourPort>/admin`
 <br/>
 **OR**
 <br/>
-Run it straight from the Index :
+Run it straight from the Index (https://registry.hub.docker.com/u/acaranta/mediadrop/) :
 ```
 docker run -p <yourPort>:8080 acaranta/mediadrop
 ```
