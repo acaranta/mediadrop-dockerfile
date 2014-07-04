@@ -2,7 +2,7 @@ MediaDrop Docker
 ----------------
 
 
-This is a very alpha Dockerfile to build a mediadrop (http://mediadrop.net) Docker container.
+This is a **very alpha** Dockerfile to build a mediadrop (http://mediadrop.net) Docker container.
 
 Build :
 -------
@@ -20,6 +20,11 @@ docker run -p <yourPort>:8080 mediadrop
 then point your browser to `http://<yourIP>:<yourPort>`
 or to `http://<yourIP>:<yourPort>/admin`
 login password of admin user are the defaults from the mediadrop install ... aka : *admin/admin*
+*OR*
+Run it straight from the Index :
+```
+docker run -p <yourPort>:8080 acaranta/mediadrop
+```
 
 Notes :
 -------
