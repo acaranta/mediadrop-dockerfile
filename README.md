@@ -19,8 +19,10 @@ docker run -p <yourPort>:8080 mediadrop
 ```
 then point your browser to `http://<yourIP>:<yourPort>`
 or to `http://<yourIP>:<yourPort>/admin`
-login password of admin user are the defaults from the mediadrop install ... aka : *admin/admin*
-*OR*
+<br/>login password of admin user are the defaults from the mediadrop install ... aka : *admin/admin*
+<br/>
+**OR**
+<br/>
 Run it straight from the Index :
 ```
 docker run -p <yourPort>:8080 acaranta/mediadrop
